@@ -1,5 +1,7 @@
 # Dashboard executivo sobre o e-commerce da Olist
 
+![Imagem do dashboard](/imgs/dash1.png)
+
 [Dashboard em PowerBI](https://app.powerbi.com/view?r=eyJrIjoiNDkzYmNjYmYtNmU2Ny00ZDllLWIyOGYtNGEyODRjYzRkYzQxIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
 
 Modelagem de dados em escala (processamento em Parquet + DuckDB) e um dashboard executivo em Power BI construídos sobre +100 mil pedidos da Olist, a maior plataforma de marketplace do Brasil, para responder uma pergunta central: **onde o negócio está crescendo, onde está estagnado e o que fazer a respeito.**
